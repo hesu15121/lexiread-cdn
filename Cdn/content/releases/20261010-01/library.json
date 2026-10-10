@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "version": "20261010-01",
+  "articles": [
+    {
+      "id": "urban-green-spaces",
+      "title": "A Greener City, a Better Life",
+      "subtitle": "城市的绿色空间，如何改变日常生活？",
+      "topic": "环境",
+      "level": "B2",
+      "minutes": 6,
+      "provenance": "AI 原创示例 · 2026-10-10 · 学习用途，非官方真题",
+      "paragraphs": [
+        {
+          "english": "As cities expand, a growing population puts pressure on land, housing and transport. Urban planners often face a difficult choice: should an empty site become another office building or a public park? A park may appear less profitable, yet its contribution to residents' well-being can be considerable. Green spaces offer a place to exercise, meet neighbours and escape the noise of crowded streets. For people living in small flats, access to a nearby garden can make everyday life more pleasant.",
+          "chinese": "随着城市扩张，人口增长给土地、住房和交通带来压力。城市规划者常常面临选择：空地应该建办公楼还是公园？公园看似利润较低，却能明显改善居民的身心状态。对住在小公寓里的人来说，附近的花园能让生活更加舒适。"
+        },
+        {
+          "english": "Trees also play a practical role. Their shade can reduce the heat people experience on a summer afternoon, while soil allows some rainfall to soak into the ground. A sustainable design considers these benefits alongside maintenance costs. However, planting a few trees is not a complete solution to pollution or flooding. Effective policy needs evidence, careful planning and long-term investment. Local authorities should assess each neighbourhood rather than assume that one design will work everywhere.",
+          "chinese": "树木也发挥着实际作用。树荫能减轻夏日下午的炎热，土壤则让一部分雨水渗入地下。可持续设计要兼顾这些益处与维护成本，但种几棵树不能彻底解决污染或洪涝问题。有效政策需要证据、细致规划和长期投入，并评估各个社区的实际情况。"
+        },
+        {
+          "english": "Another concern is inequality. Wealthier districts may enjoy attractive parks, whereas disadvantaged communities have fewer safe places to relax. To promote fair access, a city could prioritise areas with limited facilities and involve residents in decisions. This approach helps preserve local knowledge and builds a sense of responsibility. Ultimately, a successful green project is not measured only by the number of trees planted. It should improve the environment while responding to the needs of the people who use it.",
+          "chinese": "另一个问题是资源不平等。较富裕的地区可能拥有漂亮的公园，而弱势社区缺少安全的休闲场所。城市可以优先改善设施不足的地区，并让居民参与决策。成功的绿化项目不只看种了多少树，还要改善环境并回应使用者的需求。"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "expand",
+          "phonetic": "/ɪkˈspænd/",
+          "partOfSpeech": "v.",
+          "meaning": "扩大；扩张",
+          "collocation": "expand rapidly / expand access",
+          "example": "The city plans to expand its cycle network."
+        },
+        {
+          "word": "population",
+          "phonetic": "/ˌpɒpjəˈleɪʃən/",
+          "partOfSpeech": "n.",
+          "meaning": "人口",
+          "collocation": "a growing population",
+          "example": "A growing population increases demand for housing."
+        },
+        {
+          "word": "urban",
+          "phonetic": "/ˈɜːbən/",
+          "partOfSpeech": "adj.",
+          "meaning": "城市的",
+          "collocation": "urban planning / urban development",
+          "example": "Urban planning should include safe public spaces."
+        },
+        {
+          "word": "contribution",
+          "phonetic": "/ˌkɒntrɪˈbjuːʃən/",
+          "partOfSpeech": "n.",
+          "meaning": "贡献；作用",
+          "collocation": "make a contribution to",
+          "example": "Libraries make a valuable contribution to community life."
+        },
+        {
+          "word": "considerable",
+          "phonetic": "/kənˈsɪdərəbl/",
+          "partOfSpeech": "adj.",
+          "meaning": "相当大的；显著的",
+          "collocation": "considerable benefits / considerable pressure",
+          "example": "The new bus route brought considerable benefits."
+        },
+        {
+          "word": "access",
+          "phonetic": "/ˈækses/",
+          "partOfSpeech": "n.",
+          "meaning": "使用或进入的机会",
+          "collocation": "access to public services",
+          "example": "Everyone should have access to clean water."
+        },
+        {
+          "word": "sustainable",
+          "phonetic": "/səˈsteɪnəbl/",
+          "partOfSpeech": "adj.",
+          "meaning": "可持续的",
+          "collocation": "sustainable development",
+          "example": "Sustainable development considers future generations."
+        },
+        {
+          "word": "evidence",
+          "phonetic": "/ˈevɪdəns/",
+          "partOfSpeech": "n.",
+          "meaning": "证据；依据",
+          "collocation": "strong evidence / evidence-based policy",
+          "example": "The council needs evidence before changing the policy."
+        },
+        {
+          "word": "investment",
+          "phonetic": "/ɪnˈvestmənt/",
+          "partOfSpeech": "n.",
+          "meaning": "投资；投入",
+          "collocation": "long-term investment",
+          "example": "Public transport requires long-term investment."
+        },
+        {
+          "word": "assess",
+          "phonetic": "/əˈses/",
+          "partOfSpeech": "v.",
+          "meaning": "评估",
+          "collocation": "assess the impact / assess needs",
+          "example": "Researchers will assess the impact of the project."
+        },
+        {
+          "word": "inequality",
+          "phonetic": "/ˌɪnɪˈkwɒləti/",
+          "partOfSpeech": "n.",
+          "meaning": "不平等",
+          "collocation": "reduce inequality",
+          "example": "Better public services can help reduce inequality."
+        },
+        {
+          "word": "preserve",
+          "phonetic": "/prɪˈzɜːv/",
+          "partOfSpeech": "v.",
+          "meaning": "保护；保留",
+          "collocation": "preserve local knowledge",
+          "example": "The project aims to preserve the area's history."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why might a park be valuable even if it is less profitable?",
+          "options": [
+            "It can improve residents' well-being.",
+            "It guarantees an end to flooding.",
+            "It replaces all transport investment."
+          ],
+          "answer": 0,
+          "explanation": "第一段指出，公园对居民身心状态的作用可以相当显著，并提供锻炼和社交空间。"
+        },
+        {
+          "prompt": "Which statement agrees with the second paragraph?",
+          "options": [
+            "Every neighbourhood needs the same design.",
+            "Planting trees alone is not a complete solution.",
+            "Maintenance costs should be ignored."
+          ],
+          "answer": 1,
+          "explanation": "第二段明确说明，种几棵树不能彻底解决污染或洪涝；设计需要评估各地需求。"
+        },
+        {
+          "prompt": "What does the author suggest to promote fair access?",
+          "options": [
+            "Prioritise only wealthy districts.",
+            "Measure success only by tree numbers.",
+            "Prioritise areas with limited facilities."
+          ],
+          "answer": 2,
+          "explanation": "第三段建议优先改善设施不足的地区，并让居民参与决策。"
+        }
+      ]
+    },
+    {
+      "id": "lifelong-learning",
+      "title": "Learning Beyond the Classroom",
+      "subtitle": "技能会变化，学习也不必止于毕业。",
+      "topic": "教育",
+      "level": "B2",
+      "minutes": 6,
+      "provenance": "AI 原创示例 · 2026-10-10 · 学习用途，非官方真题",
+      "paragraphs": [
+        {
+          "english": "For many people, education once meant attending school and obtaining a qualification before entering employment. Today, technological change can alter the skills a job requires within a few years. An employee who could previously rely on familiar methods may need to adapt to new software or work with colleagues in different countries. Lifelong learning offers a way to respond to this uncertainty. It does not always require a university degree: a short course, a practical workshop or guided practice can also be useful.",
+          "chinese": "对许多人来说，教育曾意味着上学、获得资格，然后就业。如今，技术变化可能在几年内改变一份工作所需的技能。终身学习能帮助人们应对这种不确定性，也不一定意味着攻读大学学位：短期课程、实践工作坊或有指导的练习同样有用。"
+        },
+        {
+          "english": "Online courses provide flexibility, especially for adults balancing work and family responsibilities. Learners can choose a convenient time and repeat difficult lessons. Nevertheless, convenience alone does not guarantee progress. Motivation often declines when a course feels disconnected from real life. To acquire a skill effectively, learners need clear goals, regular feedback and opportunities to apply what they have studied. A person learning to write reports, for instance, might practise with a realistic task instead of simply watching more videos.",
+          "chinese": "在线课程为兼顾工作与家庭的成年人提供了灵活性，但便利本身不能保证进步。当课程与现实脱节时，学习动力往往会下降。有效掌握技能需要明确目标、定期反馈和实践机会。例如，学习报告写作的人可以练习真实任务，而不只是不断观看视频。"
+        },
+        {
+          "english": "Employers have a role as well. If training is available only outside working hours, some staff may struggle to participate. Organisations can allocate time for learning and encourage experienced workers to share expertise. Such support may strengthen confidence and help a team solve unfamiliar problems. However, responsibility should not fall entirely on individuals or businesses. Public libraries and community centres can offer affordable resources, making learning more inclusive. The broader aim is not merely to increase productivity, but to enable people to make informed choices throughout their lives.",
+          "chinese": "雇主也有责任。如果培训只能在下班后进行，一些员工可能难以参加。组织可以安排学习时间，鼓励经验丰富的员工分享专业知识。图书馆和社区中心也可提供价格合理的资源，让学习更包容。学习的目标不仅是提高生产效率，也包括帮助人们一生中作出知情的选择。"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "qualification",
+          "phonetic": "/ˌkwɒlɪfɪˈkeɪʃən/",
+          "partOfSpeech": "n.",
+          "meaning": "资格；学历",
+          "collocation": "obtain a qualification",
+          "example": "She obtained a qualification in project management."
+        },
+        {
+          "word": "employment",
+          "phonetic": "/ɪmˈplɔɪmənt/",
+          "partOfSpeech": "n.",
+          "meaning": "就业；受雇",
+          "collocation": "employment opportunities",
+          "example": "The programme creates employment opportunities."
+        },
+        {
+          "word": "adapt",
+          "phonetic": "/əˈdæpt/",
+          "partOfSpeech": "v.",
+          "meaning": "适应；调整",
+          "collocation": "adapt to change",
+          "example": "Workers need time to adapt to new systems."
+        },
+        {
+          "word": "uncertainty",
+          "phonetic": "/ʌnˈsɜːtənti/",
+          "partOfSpeech": "n.",
+          "meaning": "不确定性",
+          "collocation": "economic uncertainty",
+          "example": "Training can help people respond to uncertainty."
+        },
+        {
+          "word": "flexibility",
+          "phonetic": "/ˌfleksəˈbɪləti/",
+          "partOfSpeech": "n.",
+          "meaning": "灵活性",
+          "collocation": "provide greater flexibility",
+          "example": "Remote courses provide greater flexibility."
+        },
+        {
+          "word": "motivation",
+          "phonetic": "/ˌməʊtɪˈveɪʃən/",
+          "partOfSpeech": "n.",
+          "meaning": "动力；积极性",
+          "collocation": "maintain motivation",
+          "example": "Small goals can help learners maintain motivation."
+        },
+        {
+          "word": "acquire",
+          "phonetic": "/əˈkwaɪə/",
+          "partOfSpeech": "v.",
+          "meaning": "获得；学到",
+          "collocation": "acquire new skills",
+          "example": "Students acquire new skills through practice."
+        },
+        {
+          "word": "feedback",
+          "phonetic": "/ˈfiːdbæk/",
+          "partOfSpeech": "n.",
+          "meaning": "反馈",
+          "collocation": "constructive feedback",
+          "example": "Constructive feedback helps writers improve."
+        },
+        {
+          "word": "allocate",
+          "phonetic": "/ˈæləkeɪt/",
+          "partOfSpeech": "v.",
+          "meaning": "分配",
+          "collocation": "allocate time / allocate resources",
+          "example": "Managers should allocate time for training."
+        },
+        {
+          "word": "expertise",
+          "phonetic": "/ˌekspɜːˈtiːz/",
+          "partOfSpeech": "n.",
+          "meaning": "专业知识；专长",
+          "collocation": "share expertise",
+          "example": "Experienced teachers share their expertise."
+        },
+        {
+          "word": "inclusive",
+          "phonetic": "/ɪnˈkluːsɪv/",
+          "partOfSpeech": "adj.",
+          "meaning": "包容的；兼顾各群体的",
+          "collocation": "inclusive education",
+          "example": "Inclusive education responds to different needs."
+        },
+        {
+          "word": "productivity",
+          "phonetic": "/ˌprɒdʌkˈtɪvəti/",
+          "partOfSpeech": "n.",
+          "meaning": "生产效率",
+          "collocation": "increase productivity",
+          "example": "Better tools may increase productivity."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is the author's view of lifelong learning?",
+          "options": [
+            "It always requires a degree.",
+            "It can take several practical forms.",
+            "It is useful only before employment."
+          ],
+          "answer": 1,
+          "explanation": "第一段列出短期课程、工作坊和有指导的练习，表明终身学习有多种形式。"
+        },
+        {
+          "prompt": "Why might motivation decline in an online course?",
+          "options": [
+            "The course seems disconnected from real life.",
+            "The learner receives regular feedback.",
+            "The learner applies a skill to a real task."
+          ],
+          "answer": 0,
+          "explanation": "第二段指出课程与现实脱节时，学习动力往往会下降。"
+        },
+        {
+          "prompt": "Which action is recommended for employers?",
+          "options": [
+            "Place all responsibility on employees.",
+            "Provide training only after work.",
+            "Allocate time for learning."
+          ],
+          "answer": 2,
+          "explanation": "第三段建议组织分配学习时间，并支持员工分享专业知识。"
+        }
+      ]
+    },
+    {
+      "id": "digital-attention",
+      "title": "The Value of Our Attention",
+      "subtitle": "在数字生活中，为专注留一点空间。",
+      "topic": "科技",
+      "level": "B2",
+      "minutes": 6,
+      "provenance": "AI 原创示例 · 2026-10-10 · 学习用途，非官方真题",
+      "paragraphs": [
+        {
+          "english": "Digital devices have transformed the way people communicate and obtain information. A message can reach a friend in seconds, and a student can explore a vast range of learning materials without leaving home. Yet the same devices may interrupt activities that require concentration. Notifications compete for attention, encouraging users to switch between a task and a screen. The issue is not simply how much time people spend online, but whether their habits support the activities they consider important.",
+          "chinese": "数字设备改变了人们沟通和获取信息的方式，却也可能打断需要专注的活动。通知争夺注意力，促使用户在任务和屏幕之间切换。问题不只是花了多少时间上网，还包括使用习惯是否支持自己真正重视的事情。"
+        },
+        {
+          "english": "One possible strategy is to establish boundaries. Someone working on a demanding assignment could silence unnecessary alerts and set aside a period for checking messages. This approach aims to minimise distraction while preserving the benefits of communication. It is also useful to evaluate which applications deserve frequent use. An application that helps a person maintain relationships serves a different purpose from one opened automatically whenever there is a spare moment. Recognising that distinction can make decisions more deliberate.",
+          "chinese": "一种策略是建立界限。处理复杂任务时，可以关闭不必要的提醒，并安排专门时间查看消息。这样既能减少干扰，又能保留沟通的好处。我们也可以评估哪些应用值得频繁使用，区分主动维护关系与空闲时下意识打开应用，让选择更加有意识。"
+        },
+        {
+          "english": "Personal habits, however, are only part of the picture. Designers can influence behaviour through default settings and the way information is presented. A service that offers clear controls may help users manage their experience, whereas a confusing interface can make that harder. Greater transparency about recommendations could support informed choices. There is no single routine that suits everyone: a parent, a student and a shift worker have different needs. A balanced relationship with technology therefore depends on both thoughtful design and individual reflection, rather than on the assumption that every digital activity is harmful.",
+          "chinese": "个人习惯只是问题的一部分。设计者也会通过默认设置和信息呈现方式影响行为。清晰的控制选项与推荐机制透明度有助于用户作出知情的选择。适合每个人的统一日程并不存在，因此平衡的数字生活需要良好设计与个人反思。"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "transformed",
+          "phonetic": "/trænsˈfɔːmd/",
+          "partOfSpeech": "v. 过去分词",
+          "meaning": "改变了；使转变",
+          "collocation": "transform the way people work",
+          "example": "Online tools have transformed the way teams collaborate."
+        },
+        {
+          "word": "concentration",
+          "phonetic": "/ˌkɒnsənˈtreɪʃən/",
+          "partOfSpeech": "n.",
+          "meaning": "专注；注意力集中",
+          "collocation": "require concentration",
+          "example": "Reading a complex argument requires concentration."
+        },
+        {
+          "word": "strategy",
+          "phonetic": "/ˈstrætədʒi/",
+          "partOfSpeech": "n.",
+          "meaning": "策略",
+          "collocation": "an effective strategy",
+          "example": "Planning breaks can be an effective strategy."
+        },
+        {
+          "word": "establish",
+          "phonetic": "/ɪˈstæblɪʃ/",
+          "partOfSpeech": "v.",
+          "meaning": "建立；确立",
+          "collocation": "establish clear boundaries",
+          "example": "Families can establish clear boundaries for device use."
+        },
+        {
+          "word": "minimise",
+          "phonetic": "/ˈmɪnɪmaɪz/",
+          "partOfSpeech": "v.",
+          "meaning": "将……减至最少",
+          "collocation": "minimise distraction",
+          "example": "A quiet workspace helps minimise distraction."
+        },
+        {
+          "word": "distraction",
+          "phonetic": "/dɪˈstrækʃən/",
+          "partOfSpeech": "n.",
+          "meaning": "干扰；分心的事物",
+          "collocation": "reduce distraction",
+          "example": "Turning off alerts may reduce distraction."
+        },
+        {
+          "word": "evaluate",
+          "phonetic": "/ɪˈvæljueɪt/",
+          "partOfSpeech": "v.",
+          "meaning": "评价；评估",
+          "collocation": "evaluate the benefits",
+          "example": "Users should evaluate the benefits of each tool."
+        },
+        {
+          "word": "distinction",
+          "phonetic": "/dɪˈstɪŋkʃən/",
+          "partOfSpeech": "n.",
+          "meaning": "区别；差异",
+          "collocation": "make a distinction between",
+          "example": "There is a distinction between useful breaks and constant interruption."
+        },
+        {
+          "word": "deliberate",
+          "phonetic": "/dɪˈlɪbərət/",
+          "partOfSpeech": "adj.",
+          "meaning": "有意识的；深思熟虑的",
+          "collocation": "a deliberate choice",
+          "example": "She made a deliberate choice to check messages later."
+        },
+        {
+          "word": "influence",
+          "phonetic": "/ˈɪnfluəns/",
+          "partOfSpeech": "v.",
+          "meaning": "影响",
+          "collocation": "influence behaviour",
+          "example": "Default settings can influence behaviour."
+        },
+        {
+          "word": "transparency",
+          "phonetic": "/trænsˈpærənsi/",
+          "partOfSpeech": "n.",
+          "meaning": "透明度",
+          "collocation": "greater transparency",
+          "example": "Greater transparency helps users understand recommendations."
+        },
+        {
+          "word": "assumption",
+          "phonetic": "/əˈsʌmpʃən/",
+          "partOfSpeech": "n.",
+          "meaning": "假设；未经证实的看法",
+          "collocation": "challenge an assumption",
+          "example": "The report challenges the assumption that all screen time is alike."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What does the author say matters besides time spent online?",
+          "options": [
+            "Whether habits support important activities.",
+            "The price of a person's device.",
+            "How many apps a person owns."
+          ],
+          "answer": 0,
+          "explanation": "第一段强调，应考虑数字使用习惯是否支持自己重视的活动，而不只计算上网时间。"
+        },
+        {
+          "prompt": "Which action is suggested to minimise distraction?",
+          "options": [
+            "Check every notification immediately.",
+            "Silence unnecessary alerts during demanding work.",
+            "Avoid all communication permanently."
+          ],
+          "answer": 1,
+          "explanation": "第二段建议在复杂任务期间关闭不必要的提醒，同时安排时间处理消息。"
+        },
+        {
+          "prompt": "What is the main idea of the final paragraph?",
+          "options": [
+            "Every person should follow the same routine.",
+            "All digital activity is harmful.",
+            "Both design and individual reflection matter."
+          ],
+          "answer": 2,
+          "explanation": "最后一段说明，个人需求不同，平衡的数字生活取决于良好设计与个人反思。"
+        }
+      ]
+    }
+  ]
+}
