@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "20261010-04",
-  "path": "releases/20261010-04/library.json",
-  "sha256": "5be535b506a010d8497e49511736abcd0f1e335c8f743e34d994724bffd5af32",
-  "bytes": 1425516
+  "version": "20261012-01",
+  "path": "releases/20261012-01/library.json",
+  "sha256": "bd077ea2397b65a98335cebf348d81f960129ecee2648f34cd5f0eb3ecfa36a0",
+  "bytes": 1364823
 }
