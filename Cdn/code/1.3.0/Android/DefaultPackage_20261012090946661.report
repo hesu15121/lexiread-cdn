@@ -1,0 +1,1291 @@
+{
+    "Summary": {
+        "YooVersion": "3.0.6",
+        "UnityVersion": "6000.0.23f1",
+        "BuildDate": "2026/10/12 17:09:48",
+        "BuildSeconds": 1,
+        "BuildTarget": 13,
+        "BuildPipeline": "LegacyBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "20261012090946661",
+        "BuildPackageNote": "2026/10/12 17:09:46",
+        "UniqueBundleName": false,
+        "EnableAddressable": false,
+        "SupportExtensionless": true,
+        "LocationToLower": false,
+        "IncludeAssetGuid": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "ClearBuildCacheFiles": false,
+        "UseAssetDependencyDB": false,
+        "EnableSharePackRule": false,
+        "SingleReferencedPackAlone": true,
+        "EncryptionServicesClassName": "null",
+        "ManifestProcessServicesClassName": "null",
+        "ManifestRestoreServicesClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "ReplaceAssetPathWithAddress": false,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 46,
+        "MainAssetTotalCount": 46,
+        "AllBundleTotalCount": 46,
+        "AllBundleTotalSize": 5136476,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/Assembly-CSharp.dll.bytes",
+            "AssetGuid": "a37c66e20011303479fd9d3133558075",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_assembly-csharp_dll.bundle",
+            "MainBundleSize": 15880,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/Client.Foundation.dll.bytes",
+            "AssetGuid": "83035ae71d26f7e48b16a7c529114d75",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_client_foundation_dll.bundle",
+            "MainBundleSize": 6821,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/HybridCLR.Runtime.dll.bytes",
+            "AssetGuid": "771657c077cc36d4582ed47fc0154c8d",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_hybridclr_runtime_dll.bundle",
+            "MainBundleSize": 4751,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/Mono.Security.dll.bytes",
+            "AssetGuid": "5c3e3992c3cdb22479c223b784ff397b",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_mono_security_dll.bundle",
+            "MainBundleSize": 67076,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/mscorlib.dll.bytes",
+            "AssetGuid": "e2e747f1654b093428c7ed5772ed0711",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_mscorlib_dll.bundle",
+            "MainBundleSize": 1115027,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/Newtonsoft.Json.dll.bytes",
+            "AssetGuid": "561e5aa43ee6ff44aad16ceaff5b17ad",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_newtonsoft_json_dll.bundle",
+            "MainBundleSize": 328604,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Configuration.dll.bytes",
+            "AssetGuid": "6a60bfd71d0c51047af99c92e39e7928",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_system_configuration_dll.bundle",
+            "MainBundleSize": 3680,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Core.dll.bytes",
+            "AssetGuid": "d7ed6f752f6705d4cae83bb4913a5593",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_system_core_dll.bundle",
+            "MainBundleSize": 214579,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Data.dll.bytes",
+            "AssetGuid": "f56ad8f420375cc4286ce2981210eba5",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_system_data_dll.bundle",
+            "MainBundleSize": 268155,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/System.dll.bytes",
+            "AssetGuid": "d5340223789ab2742a43cf19c044db82",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_system_dll.bundle",
+            "MainBundleSize": 401105,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Drawing.dll.bytes",
+            "AssetGuid": "7baabe54a6c50bc43acd0c83fd964793",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_system_drawing_dll.bundle",
+            "MainBundleSize": 25675,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Numerics.dll.bytes",
+            "AssetGuid": "eadfe8f91b98b8a4c8d2e2664eb4d337",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_system_numerics_dll.bundle",
+            "MainBundleSize": 24169,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Runtime.Serialization.dll.bytes",
+            "AssetGuid": "4d2ee386b6c24aa4794959746065f298",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_system_runtime_serialization_dll.bundle",
+            "MainBundleSize": 3963,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Xml.dll.bytes",
+            "AssetGuid": "5cb27fcfc1f756049aabe332b0daf7f1",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_system_xml_dll.bundle",
+            "MainBundleSize": 482548,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Xml.Linq.dll.bytes",
+            "AssetGuid": "b2e06383580685843acf535631509370",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_system_xml_linq_dll.bundle",
+            "MainBundleSize": 21770,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/Unity.Burst.dll.bytes",
+            "AssetGuid": "1e46c057ac6461d47a1e8c5c5ecbe344",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unity_burst_dll.bundle",
+            "MainBundleSize": 125373,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/Unity.Burst.Unsafe.dll.bytes",
+            "AssetGuid": "77ccba5d3ffd8e844ad30450744cf88c",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unity_burst_unsafe_dll.bundle",
+            "MainBundleSize": 3917,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/Unity.Mathematics.dll.bytes",
+            "AssetGuid": "e8bf5688c833fa343a7fde8e33c173c5",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unity_mathematics_dll.bundle",
+            "MainBundleSize": 266209,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/Unity.RenderPipeline.Universal.ShaderLibrary.dll.bytes",
+            "AssetGuid": "37e1c4ed078d075449b7a46f072e81b8",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unity_renderpipeline_universal_shaderlibrary_dll.bundle",
+            "MainBundleSize": 5663,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/Unity.RenderPipelines.Core.Runtime.dll.bytes",
+            "AssetGuid": "56bfb512484b7df4cb57e5614df4aab7",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unity_renderpipelines_core_runtime_dll.bundle",
+            "MainBundleSize": 256310,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/Unity.RenderPipelines.Universal.Runtime.dll.bytes",
+            "AssetGuid": "c97c6f42df6a1de4988aa4b4597500cd",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unity_renderpipelines_universal_runtime_dll.bundle",
+            "MainBundleSize": 365637,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.AIModule.dll.bytes",
+            "AssetGuid": "9df2b1ba8011bde459832d983be475ad",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_aimodule_dll.bundle",
+            "MainBundleSize": 5593,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.AndroidJNIModule.dll.bytes",
+            "AssetGuid": "addf97f8cc9aa644ea36d21c92fd43bf",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_androidjnimodule_dll.bundle",
+            "MainBundleSize": 40071,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.AssetBundleModule.dll.bytes",
+            "AssetGuid": "f239228b2bb19024ea77b7f7c2e22dcc",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_assetbundlemodule_dll.bundle",
+            "MainBundleSize": 9167,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.AudioModule.dll.bytes",
+            "AssetGuid": "b5bcebabc2073224d89907318b261aec",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_audiomodule_dll.bundle",
+            "MainBundleSize": 7704,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.CoreModule.dll.bytes",
+            "AssetGuid": "3e9bb5cb0074e0643b479fbe69447dad",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_coremodule_dll.bundle",
+            "MainBundleSize": 222519,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.dll.bytes",
+            "AssetGuid": "04c2a9424ed486a4cb989dab4e3502ad",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_dll.bundle",
+            "MainBundleSize": 16201,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.IMGUIModule.dll.bytes",
+            "AssetGuid": "c56dd718933029846b4984e3b91ff606",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_imguimodule_dll.bundle",
+            "MainBundleSize": 36168,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.InputLegacyModule.dll.bytes",
+            "AssetGuid": "ce581427859987c4fb5acf08a0651cff",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_inputlegacymodule_dll.bundle",
+            "MainBundleSize": 13823,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.JSONSerializeModule.dll.bytes",
+            "AssetGuid": "606ffbad01c8c94449dee3f89c7b15fe",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_jsonserializemodule_dll.bundle",
+            "MainBundleSize": 6983,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.PhysicsModule.dll.bytes",
+            "AssetGuid": "d2160635e7a2abb488124b7838519392",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_physicsmodule_dll.bundle",
+            "MainBundleSize": 8286,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.PropertiesModule.dll.bytes",
+            "AssetGuid": "e9cb61996502c6541875e9f2fed40ed7",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_propertiesmodule_dll.bundle",
+            "MainBundleSize": 21358,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.SharedInternalsModule.dll.bytes",
+            "AssetGuid": "fb644ed255046784b99c6b380a2c9577",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_sharedinternalsmodule_dll.bundle",
+            "MainBundleSize": 8887,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.SpriteMaskModule.dll.bytes",
+            "AssetGuid": "1cccad44052f66741af1d0b1c0f528ed",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_spritemaskmodule_dll.bundle",
+            "MainBundleSize": 5044,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.TextCoreFontEngineModule.dll.bytes",
+            "AssetGuid": "6a220e764ebbf254ea6a503978d0c5e5",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_textcorefontenginemodule_dll.bundle",
+            "MainBundleSize": 18840,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.TextCoreTextEngineModule.dll.bytes",
+            "AssetGuid": "40e89024a5c73834e9fd147c8ed55746",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_textcoretextenginemodule_dll.bundle",
+            "MainBundleSize": 122053,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.TextRenderingModule.dll.bytes",
+            "AssetGuid": "edcc0fecf0a710d4fb43951e80418c98",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_textrenderingmodule_dll.bundle",
+            "MainBundleSize": 14586,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.UI.dll.bytes",
+            "AssetGuid": "d7e0afe2ebd51994fb22e5ce60e616fe",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_ui_dll.bundle",
+            "MainBundleSize": 130126,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.UIModule.dll.bytes",
+            "AssetGuid": "0bee1821325c0da4580ddefb1508dc17",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_uimodule_dll.bundle",
+            "MainBundleSize": 15656,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.UnityWebRequestAssetBundleModule.dll.bytes",
+            "AssetGuid": "b80a40f9c7fd91744b09ca495557cf1e",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_unitywebrequestassetbundlemodule_dll.bundle",
+            "MainBundleSize": 6560,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.UnityWebRequestModule.dll.bytes",
+            "AssetGuid": "914761e404e7ef449b122041d58354b2",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_unitywebrequestmodule_dll.bundle",
+            "MainBundleSize": 28303,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.VFXModule.dll.bytes",
+            "AssetGuid": "88f76cc30e5308942a4b52e8010cbf5b",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_unityengine_vfxmodule_dll.bundle",
+            "MainBundleSize": 8556,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/AOT/YooAsset.dll.bytes",
+            "AssetGuid": "e9c23f64a9ec7064fa665aa5857ec254",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_aot_yooasset_dll.bundle",
+            "MainBundleSize": 157722,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/code-manifest.json",
+            "AssetGuid": "a519e086626247b4db8d9273277e4b90",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_code-manifest.bundle",
+            "MainBundleSize": 1361,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Generated/game.bytes",
+            "AssetGuid": "8b2704c1d5634f64fb6398cf430c6c81",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_generated_game.bundle",
+            "MainBundleSize": 69037,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdate/Resources/library.json",
+            "AssetGuid": "707b5efa78c60654c845a0691b68ab7b",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdate_resources_library.bundle",
+            "MainBundleSize": 154960,
+            "DependAssets": [],
+            "DependBundles": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_hotupdate_generated_aot_assembly-csharp_dll.bundle",
+            "FileName": "e11ea44525150918f051171cc5bccc66.bundle",
+            "FileHash": "e11ea44525150918f051171cc5bccc66",
+            "FileCrc": 1253122083,
+            "FileSize": 15880,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/Assembly-CSharp.dll.bytes",
+                    "AssetGUID": "a37c66e20011303479fd9d3133558075"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_client_foundation_dll.bundle",
+            "FileName": "41dc522514bbf29c31569e95549b7e96.bundle",
+            "FileHash": "41dc522514bbf29c31569e95549b7e96",
+            "FileCrc": 3396718229,
+            "FileSize": 6821,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/Client.Foundation.dll.bytes",
+                    "AssetGUID": "83035ae71d26f7e48b16a7c529114d75"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_hybridclr_runtime_dll.bundle",
+            "FileName": "795e1843c16ee17076bb5916b988a2f5.bundle",
+            "FileHash": "795e1843c16ee17076bb5916b988a2f5",
+            "FileCrc": 62513829,
+            "FileSize": 4751,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/HybridCLR.Runtime.dll.bytes",
+                    "AssetGUID": "771657c077cc36d4582ed47fc0154c8d"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_mono_security_dll.bundle",
+            "FileName": "2c748c0159d8aed753c734d147ff0556.bundle",
+            "FileHash": "2c748c0159d8aed753c734d147ff0556",
+            "FileCrc": 806250256,
+            "FileSize": 67076,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/Mono.Security.dll.bytes",
+                    "AssetGUID": "5c3e3992c3cdb22479c223b784ff397b"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_mscorlib_dll.bundle",
+            "FileName": "4fbd2261d2e58961cc63f3de6e2cd83b.bundle",
+            "FileHash": "4fbd2261d2e58961cc63f3de6e2cd83b",
+            "FileCrc": 1848912395,
+            "FileSize": 1115027,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/mscorlib.dll.bytes",
+                    "AssetGUID": "e2e747f1654b093428c7ed5772ed0711"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_newtonsoft_json_dll.bundle",
+            "FileName": "a67528badf0b0a7f67a96ecc2a081671.bundle",
+            "FileHash": "a67528badf0b0a7f67a96ecc2a081671",
+            "FileCrc": 2709657711,
+            "FileSize": 328604,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/Newtonsoft.Json.dll.bytes",
+                    "AssetGUID": "561e5aa43ee6ff44aad16ceaff5b17ad"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_system_configuration_dll.bundle",
+            "FileName": "a7ecc2ac2ea715772c691542de614605.bundle",
+            "FileHash": "a7ecc2ac2ea715772c691542de614605",
+            "FileCrc": 1439292008,
+            "FileSize": 3680,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Configuration.dll.bytes",
+                    "AssetGUID": "6a60bfd71d0c51047af99c92e39e7928"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_system_core_dll.bundle",
+            "FileName": "083565808fd9f483fe31113342a99946.bundle",
+            "FileHash": "083565808fd9f483fe31113342a99946",
+            "FileCrc": 580169209,
+            "FileSize": 214579,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Core.dll.bytes",
+                    "AssetGUID": "d7ed6f752f6705d4cae83bb4913a5593"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_system_data_dll.bundle",
+            "FileName": "da0f165685703b923052bf5e4167cbee.bundle",
+            "FileHash": "da0f165685703b923052bf5e4167cbee",
+            "FileCrc": 3524850001,
+            "FileSize": 268155,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Data.dll.bytes",
+                    "AssetGUID": "f56ad8f420375cc4286ce2981210eba5"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_system_dll.bundle",
+            "FileName": "786dff39152b5cac32e16b6c83cc49d0.bundle",
+            "FileHash": "786dff39152b5cac32e16b6c83cc49d0",
+            "FileCrc": 3181963888,
+            "FileSize": 401105,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/System.dll.bytes",
+                    "AssetGUID": "d5340223789ab2742a43cf19c044db82"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_system_drawing_dll.bundle",
+            "FileName": "67cb2eba4efa6232251923b1e4ba7cda.bundle",
+            "FileHash": "67cb2eba4efa6232251923b1e4ba7cda",
+            "FileCrc": 2337249523,
+            "FileSize": 25675,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Drawing.dll.bytes",
+                    "AssetGUID": "7baabe54a6c50bc43acd0c83fd964793"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_system_numerics_dll.bundle",
+            "FileName": "77c7a458fd3398c0ca5efc70cc3ade7f.bundle",
+            "FileHash": "77c7a458fd3398c0ca5efc70cc3ade7f",
+            "FileCrc": 4225703950,
+            "FileSize": 24169,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Numerics.dll.bytes",
+                    "AssetGUID": "eadfe8f91b98b8a4c8d2e2664eb4d337"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_system_runtime_serialization_dll.bundle",
+            "FileName": "d6e14aafb0555bc498322411120b8978.bundle",
+            "FileHash": "d6e14aafb0555bc498322411120b8978",
+            "FileCrc": 1459105343,
+            "FileSize": 3963,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Runtime.Serialization.dll.bytes",
+                    "AssetGUID": "4d2ee386b6c24aa4794959746065f298"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_system_xml_dll.bundle",
+            "FileName": "3059906c7d7b7c9d7b7b45a3a7d0bbfa.bundle",
+            "FileHash": "3059906c7d7b7c9d7b7b45a3a7d0bbfa",
+            "FileCrc": 2350542011,
+            "FileSize": 482548,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Xml.dll.bytes",
+                    "AssetGUID": "5cb27fcfc1f756049aabe332b0daf7f1"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_system_xml_linq_dll.bundle",
+            "FileName": "19e367ea291350c89d2fa7ed152b1650.bundle",
+            "FileHash": "19e367ea291350c89d2fa7ed152b1650",
+            "FileCrc": 1563807987,
+            "FileSize": 21770,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/System.Xml.Linq.dll.bytes",
+                    "AssetGUID": "b2e06383580685843acf535631509370"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unity_burst_dll.bundle",
+            "FileName": "aa8037c5674c84e17be18ae3af1767bc.bundle",
+            "FileHash": "aa8037c5674c84e17be18ae3af1767bc",
+            "FileCrc": 1401376321,
+            "FileSize": 125373,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/Unity.Burst.dll.bytes",
+                    "AssetGUID": "1e46c057ac6461d47a1e8c5c5ecbe344"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unity_burst_unsafe_dll.bundle",
+            "FileName": "81eeffc0cc41a698e0af4271efb6abd7.bundle",
+            "FileHash": "81eeffc0cc41a698e0af4271efb6abd7",
+            "FileCrc": 701253710,
+            "FileSize": 3917,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/Unity.Burst.Unsafe.dll.bytes",
+                    "AssetGUID": "77ccba5d3ffd8e844ad30450744cf88c"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unity_mathematics_dll.bundle",
+            "FileName": "2cb244a6b6e9917f832c068a292995dd.bundle",
+            "FileHash": "2cb244a6b6e9917f832c068a292995dd",
+            "FileCrc": 3649707665,
+            "FileSize": 266209,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/Unity.Mathematics.dll.bytes",
+                    "AssetGUID": "e8bf5688c833fa343a7fde8e33c173c5"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unity_renderpipeline_universal_shaderlibrary_dll.bundle",
+            "FileName": "ab2176c15d4174511a4a4fc03395d788.bundle",
+            "FileHash": "ab2176c15d4174511a4a4fc03395d788",
+            "FileCrc": 72855088,
+            "FileSize": 5663,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/Unity.RenderPipeline.Universal.ShaderLibrary.dll.bytes",
+                    "AssetGUID": "37e1c4ed078d075449b7a46f072e81b8"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unity_renderpipelines_core_runtime_dll.bundle",
+            "FileName": "a9d94bad78ba45ba8980b750acca4ade.bundle",
+            "FileHash": "a9d94bad78ba45ba8980b750acca4ade",
+            "FileCrc": 559738411,
+            "FileSize": 256310,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/Unity.RenderPipelines.Core.Runtime.dll.bytes",
+                    "AssetGUID": "56bfb512484b7df4cb57e5614df4aab7"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unity_renderpipelines_universal_runtime_dll.bundle",
+            "FileName": "eef0a1dfa1495a08f7d597be303e7db8.bundle",
+            "FileHash": "eef0a1dfa1495a08f7d597be303e7db8",
+            "FileCrc": 1299910310,
+            "FileSize": 365637,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/Unity.RenderPipelines.Universal.Runtime.dll.bytes",
+                    "AssetGUID": "c97c6f42df6a1de4988aa4b4597500cd"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_aimodule_dll.bundle",
+            "FileName": "67c8d9a6990b31eddf8a59acc5339673.bundle",
+            "FileHash": "67c8d9a6990b31eddf8a59acc5339673",
+            "FileCrc": 4147821826,
+            "FileSize": 5593,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.AIModule.dll.bytes",
+                    "AssetGUID": "9df2b1ba8011bde459832d983be475ad"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_androidjnimodule_dll.bundle",
+            "FileName": "ade233804de4ba0986bf4744a1ba195c.bundle",
+            "FileHash": "ade233804de4ba0986bf4744a1ba195c",
+            "FileCrc": 246525950,
+            "FileSize": 40071,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.AndroidJNIModule.dll.bytes",
+                    "AssetGUID": "addf97f8cc9aa644ea36d21c92fd43bf"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_assetbundlemodule_dll.bundle",
+            "FileName": "218c006323c5fd404a96a5a863074ba2.bundle",
+            "FileHash": "218c006323c5fd404a96a5a863074ba2",
+            "FileCrc": 3482385692,
+            "FileSize": 9167,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.AssetBundleModule.dll.bytes",
+                    "AssetGUID": "f239228b2bb19024ea77b7f7c2e22dcc"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_audiomodule_dll.bundle",
+            "FileName": "41407ce7426064e772c41f3399d131e5.bundle",
+            "FileHash": "41407ce7426064e772c41f3399d131e5",
+            "FileCrc": 2681618603,
+            "FileSize": 7704,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.AudioModule.dll.bytes",
+                    "AssetGUID": "b5bcebabc2073224d89907318b261aec"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_coremodule_dll.bundle",
+            "FileName": "f816781c026f68a3efd90ab59a788ee9.bundle",
+            "FileHash": "f816781c026f68a3efd90ab59a788ee9",
+            "FileCrc": 460098495,
+            "FileSize": 222519,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.CoreModule.dll.bytes",
+                    "AssetGUID": "3e9bb5cb0074e0643b479fbe69447dad"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_dll.bundle",
+            "FileName": "fcaa77cd31948872f7469e4d6fac1fe0.bundle",
+            "FileHash": "fcaa77cd31948872f7469e4d6fac1fe0",
+            "FileCrc": 1293108124,
+            "FileSize": 16201,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.dll.bytes",
+                    "AssetGUID": "04c2a9424ed486a4cb989dab4e3502ad"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_imguimodule_dll.bundle",
+            "FileName": "9f7a1fc78bdf250a6ae6714c49f8e7be.bundle",
+            "FileHash": "9f7a1fc78bdf250a6ae6714c49f8e7be",
+            "FileCrc": 778695802,
+            "FileSize": 36168,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.IMGUIModule.dll.bytes",
+                    "AssetGUID": "c56dd718933029846b4984e3b91ff606"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_inputlegacymodule_dll.bundle",
+            "FileName": "b92d15441334abfbfaf810331257b032.bundle",
+            "FileHash": "b92d15441334abfbfaf810331257b032",
+            "FileCrc": 197918472,
+            "FileSize": 13823,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.InputLegacyModule.dll.bytes",
+                    "AssetGUID": "ce581427859987c4fb5acf08a0651cff"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_jsonserializemodule_dll.bundle",
+            "FileName": "e16c7672c132cd3528fdad3a94b9e513.bundle",
+            "FileHash": "e16c7672c132cd3528fdad3a94b9e513",
+            "FileCrc": 930418369,
+            "FileSize": 6983,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.JSONSerializeModule.dll.bytes",
+                    "AssetGUID": "606ffbad01c8c94449dee3f89c7b15fe"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_physicsmodule_dll.bundle",
+            "FileName": "131c98f625fee772e28372b84f05521e.bundle",
+            "FileHash": "131c98f625fee772e28372b84f05521e",
+            "FileCrc": 2465004025,
+            "FileSize": 8286,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.PhysicsModule.dll.bytes",
+                    "AssetGUID": "d2160635e7a2abb488124b7838519392"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_propertiesmodule_dll.bundle",
+            "FileName": "18f1db5f2ffd9d6586aac5202a5898bc.bundle",
+            "FileHash": "18f1db5f2ffd9d6586aac5202a5898bc",
+            "FileCrc": 2007317637,
+            "FileSize": 21358,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.PropertiesModule.dll.bytes",
+                    "AssetGUID": "e9cb61996502c6541875e9f2fed40ed7"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_sharedinternalsmodule_dll.bundle",
+            "FileName": "c344662a8191fc3232a18d88c205f292.bundle",
+            "FileHash": "c344662a8191fc3232a18d88c205f292",
+            "FileCrc": 2947693670,
+            "FileSize": 8887,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.SharedInternalsModule.dll.bytes",
+                    "AssetGUID": "fb644ed255046784b99c6b380a2c9577"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_spritemaskmodule_dll.bundle",
+            "FileName": "cc1c0dbd6148e5c6bdd60923966a977a.bundle",
+            "FileHash": "cc1c0dbd6148e5c6bdd60923966a977a",
+            "FileCrc": 3098446268,
+            "FileSize": 5044,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.SpriteMaskModule.dll.bytes",
+                    "AssetGUID": "1cccad44052f66741af1d0b1c0f528ed"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_textcorefontenginemodule_dll.bundle",
+            "FileName": "7e24160ebe0d0d525981c1717d5f839e.bundle",
+            "FileHash": "7e24160ebe0d0d525981c1717d5f839e",
+            "FileCrc": 2534450855,
+            "FileSize": 18840,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.TextCoreFontEngineModule.dll.bytes",
+                    "AssetGUID": "6a220e764ebbf254ea6a503978d0c5e5"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_textcoretextenginemodule_dll.bundle",
+            "FileName": "58bb6518a79534789e92b18ea68c0495.bundle",
+            "FileHash": "58bb6518a79534789e92b18ea68c0495",
+            "FileCrc": 642865916,
+            "FileSize": 122053,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.TextCoreTextEngineModule.dll.bytes",
+                    "AssetGUID": "40e89024a5c73834e9fd147c8ed55746"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_textrenderingmodule_dll.bundle",
+            "FileName": "3caea1c1e4453bcce10217514b92411d.bundle",
+            "FileHash": "3caea1c1e4453bcce10217514b92411d",
+            "FileCrc": 1106058558,
+            "FileSize": 14586,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.TextRenderingModule.dll.bytes",
+                    "AssetGUID": "edcc0fecf0a710d4fb43951e80418c98"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_ui_dll.bundle",
+            "FileName": "b9ccf5c0cd0a6f527b60690d8b1c3fba.bundle",
+            "FileHash": "b9ccf5c0cd0a6f527b60690d8b1c3fba",
+            "FileCrc": 1666246051,
+            "FileSize": 130126,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.UI.dll.bytes",
+                    "AssetGUID": "d7e0afe2ebd51994fb22e5ce60e616fe"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_uimodule_dll.bundle",
+            "FileName": "597ff44c1b5605206bd5e22c813c6dc3.bundle",
+            "FileHash": "597ff44c1b5605206bd5e22c813c6dc3",
+            "FileCrc": 2340278243,
+            "FileSize": 15656,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.UIModule.dll.bytes",
+                    "AssetGUID": "0bee1821325c0da4580ddefb1508dc17"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_unitywebrequestassetbundlemodule_dll.bundle",
+            "FileName": "9534279717ce49bfd2a81bf58edabce8.bundle",
+            "FileHash": "9534279717ce49bfd2a81bf58edabce8",
+            "FileCrc": 831684842,
+            "FileSize": 6560,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.UnityWebRequestAssetBundleModule.dll.bytes",
+                    "AssetGUID": "b80a40f9c7fd91744b09ca495557cf1e"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_unitywebrequestmodule_dll.bundle",
+            "FileName": "bd5c6a19a20758420aa641c8342b0c45.bundle",
+            "FileHash": "bd5c6a19a20758420aa641c8342b0c45",
+            "FileCrc": 2540552261,
+            "FileSize": 28303,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.UnityWebRequestModule.dll.bytes",
+                    "AssetGUID": "914761e404e7ef449b122041d58354b2"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_unityengine_vfxmodule_dll.bundle",
+            "FileName": "9d915ee7f96445857a1ad628fe5968a5.bundle",
+            "FileHash": "9d915ee7f96445857a1ad628fe5968a5",
+            "FileCrc": 757921921,
+            "FileSize": 8556,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/UnityEngine.VFXModule.dll.bytes",
+                    "AssetGUID": "88f76cc30e5308942a4b52e8010cbf5b"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_aot_yooasset_dll.bundle",
+            "FileName": "e80c4da225c1ef7bee097fbe97be7573.bundle",
+            "FileHash": "e80c4da225c1ef7bee097fbe97be7573",
+            "FileCrc": 2785481284,
+            "FileSize": 157722,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/AOT/YooAsset.dll.bytes",
+                    "AssetGUID": "e9c23f64a9ec7064fa665aa5857ec254"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_code-manifest.bundle",
+            "FileName": "c1d894cc38c7e70d6f14cd5d56f48a13.bundle",
+            "FileHash": "c1d894cc38c7e70d6f14cd5d56f48a13",
+            "FileCrc": 2844716218,
+            "FileSize": 1361,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/code-manifest.json",
+                    "AssetGUID": "a519e086626247b4db8d9273277e4b90"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_generated_game.bundle",
+            "FileName": "0251faebad7621785b5eef6a1f099eda.bundle",
+            "FileHash": "0251faebad7621785b5eef6a1f099eda",
+            "FileCrc": 155179205,
+            "FileSize": 69037,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Generated/game.bytes",
+                    "AssetGUID": "8b2704c1d5634f64fb6398cf430c6c81"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdate_resources_library.bundle",
+            "FileName": "89f64eb5f40b2370ff1a3401f71d7d50.bundle",
+            "FileHash": "89f64eb5f40b2370ff1a3401f71d7d50",
+            "FileCrc": 549423815,
+            "FileSize": 154960,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/HotUpdate/Resources/library.json",
+                    "AssetGUID": "707b5efa78c60654c845a0691b68ab7b"
+                }
+            ]
+        }
+    ],
+    "IndependentAssets": []
+}
