@@ -3,7 +3,7 @@
 Public distribution files for the LexiRead IELTS reading app.
 
 - Article entry: `Cdn/content/latest.json`; versioned JSON contains 163 graded article variants.
-- Android player 1.4.0 updates: `Cdn/code/1.4.0/Android/DefaultPackage.version`.
+- Android player 1.4.1 updates: `Cdn/code/1.4.1/Android/DefaultPackage.version`.
 - Files are served through `https://hesu15121.github.io/lexiread-cdn/Cdn/`.
 
 The Android app includes offline resources and verifies article size and SHA256 before activation.
